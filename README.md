@@ -1,5 +1,9 @@
 # Exploring Git and GitHub
 ## DAY 1
+
+### Recording of the session
+[Exploring Git and GitHub - Day 1](https://drive.google.com/open?id=13AP9Q1zztNGPmlkE-cXg3DZ-kBOz_8PN&authuser=dataanalyticsclub.dduc%40gmail.com&usp=drive_fs)
+
 ### __How to install git?__
 Visit the git scm [website](https://git-scm.com/downloads) and download the correct version depending on your OS.
 - [Windows](https://git-scm.com/download/win)
