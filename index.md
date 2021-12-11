@@ -1,7 +1,7 @@
-# Exploring Git and GitHub
+# __Exploring Git and GitHub__
 ## DAY 1
 
-### Recording of the session
+### __Recording of the session__
 [Exploring Git and GitHub - Day 1](https://drive.google.com/open?id=13AP9Q1zztNGPmlkE-cXg3DZ-kBOz_8PN&authuser=dataanalyticsclub.dduc%40gmail.com&usp=drive_fs)
 
 ### __How to install git?__
@@ -16,7 +16,7 @@ git --version
 ```
 If the installation was successful, then the currently installed version will be displayed, else an error will be displayed. If you face any issues during installation, kindly raise an issue.
 
-### Configure git to use with Github and similar platforms
+### __Configure git to use with Github and similar platforms__
 If you don't have a GitHub account yet, you can create it [here](https://www.github.com). Run the following commands to set up your git configuration to use your name and e-mail when you make changes and commits to the repository.
 ```bash
 git config --global user.name 'Your Name'
@@ -24,14 +24,14 @@ git config --global user.email 'your email'
 ```
 Now when you make any commits all the git based platforms will attribute the changes to you and your email.
 
-### Initialize a folder with git
+### __Initialize a folder with git__
 Inside the folder where your source code and related files are located, run:
 ```bash
 git init -b main
 ```
 Once you have run the command, a new folder named `.git` will created inside your directory which will keep all the files related to source control.
 
-### Tracking files
+### __Tracking files__
 Once you have initialized your folder with git, you can start tracking your files and start making changes without worrying about your currently stable version.
 
 When you first create a new file, it is marked as untracked. Once you have written something you need to stage the file and send it to the 'staging area'. You can do this in one of the following ways.
@@ -65,7 +65,7 @@ This will open a text editor where you can write your commit message in this for
     - Point 2
     - Point 3
 
-### Adding our repository to Github
+### __Adding our repository to Github__
 Once we have made some commits to our repository on our local machine, we can upload it to any web hosted git repository platforms and track our code in the cloud and collaborate with other people. Here's how to add your local repo to GitHub.
 - Create a new repository in GitHub.
 - Do not initialize it with README or .gitignore.
