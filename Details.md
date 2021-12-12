@@ -1,3 +1,3 @@
 # Details of Attendees
-- Name:
-- Course:
+- Name: Anirban Bhattacharjee
+- Course: BSc Computer Science
