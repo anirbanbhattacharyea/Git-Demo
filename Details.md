@@ -1,3 +1,3 @@
 # Details of Attendees
-- Name:
-- Course:
+- Name:Bhavana kashyap
+- Course:bsc computer science
