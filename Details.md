@@ -1,3 +1,3 @@
 # Details of Attendees
-- Name:
-- Course:
+- Name: Ayush Karn
+- Course: Bsc (hons) Computer Science
