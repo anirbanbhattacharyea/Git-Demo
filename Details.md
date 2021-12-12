@@ -1,3 +1,3 @@
-# Details of Attendees
-- Name:
-- Course:
+# Details of Parvesh
+- Name: Parvesh
+- Course: Bsc CS(H)
