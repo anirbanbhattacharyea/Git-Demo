@@ -1,3 +1,3 @@
 # Details of Attendees
-- Name:
-- Course:
+- Name: Avantika Ajit
+- Course: B.Sc (Hons) Computer Science
