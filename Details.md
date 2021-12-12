@@ -1,3 +1,3 @@
 # Details of Attendees
-- Name:
-- Course:
+- Name:YASH BHATT
+- Course:BSC HONS CS
