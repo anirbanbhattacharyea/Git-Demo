@@ -1,5 +1,5 @@
 # List of Simple Projects
-- [ ] Sum of first n natural numbers - Vivek
+- [x] Sum of first n natural numbers - Vivek
 - [ ] Check Palindrome - Ayush
 - [ ] Fibonacci Sequence - Parvesh
 - [ ] Factorial upto 10 - Neha
